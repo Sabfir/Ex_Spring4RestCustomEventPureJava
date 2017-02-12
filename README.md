@@ -1,5 +1,5 @@
-# Spring 4 REST Custom Event Pure Java.
-Template example for Spring 4 REST with logging to DB using custom event with pure Java Configuration (no XML), using Maven build tool.
+# Custom Event with Spring 4 REST Pure Java Configuration (NO XML).
+Template example for Spring 4 REST with logging to DB using CUSTOM EVENT with pure Java Configuration (no XML).
 
 ###1. Technologies
 * Java 1.8
@@ -17,7 +17,7 @@ $ mvn jetty:run
 ```
 
 ###3. To Use this project
-Access ```http://localhost:8080/customers``` to save log to the db
+Access ```http://localhost:8080/customers``` to save log to the db<br/>
 Access ```http://localhost:8080/syslogs``` to see logs from the db
 
 ###4. Description of Custom Event Implementation
